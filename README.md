@@ -3,7 +3,7 @@ A collection of components for a short text adventure game built using Unity / C
 
 This repository contains the following five files:
 
-  1. PrisonEscape - Executable file for the game itself
+  1. PrisonEscape.exe - Executable file for the game itself
   2. Prison Escape.sln - VS C# solution file for the game's code
   3. Assembly-CSharp.csproj - C# Assembly file for the game's code
   4. TextController.cs - Primary C# code for game's functionality
